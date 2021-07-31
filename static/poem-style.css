@@ -1,0 +1,46 @@
+h1 {
+    font-size: 300%;
+}
+
+.title {
+    font-family: 'Kaushan Script', cursive;
+    font-style: italic;
+    padding: 18px;
+    text-align: center;
+}
+
+summary {
+    border: 1px dotted #ddd;
+    margin-top: 50px;
+    padding: 10px;
+    background-color: #d65177;
+    color: #fff;
+    opacity: 0.7;
+
+    /* 1 pixel black shadow to left, top, right and bottom */
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.poemtitle {
+    font-size: 160%;
+    font-family: 'Kaushan Script', cursive;
+    font-style: italic;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.japanese {
+    font-family: 'Kosugi Maru', sans-serif;
+    font-style: normal;
+}
+
+.poem {
+    font-family: Kalam, cursive;
+    font-weight: 400;
+    padding-left: 5%;
+    font-size: 13pt;
+}
+
+button {
+    font-family: "Raleway", sans-serif;
+}
