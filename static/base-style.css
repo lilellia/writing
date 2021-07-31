@@ -1,0 +1,31 @@
+body {
+    background-color: #333;
+    color: #ddd;
+    font-family: "Raleway", sans-serif;
+    margin: 3%;
+}
+
+.group {
+    background-color: #d65177;
+    color: #333;
+    padding: 15px;
+}
+
+.description {
+    font-style: italic;
+}
+
+a.dl {
+    background-color: #333;
+    color: #ddd;
+    border: none;
+    padding: 8px 30px;
+    margin-top: 4px;
+    cursor: pointer;
+    font-size: 80%;
+    text-decoration: none;
+}
+
+a.dl:hover {
+    background-color: #222;
+}
